@@ -26,7 +26,7 @@ pip install notebook
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/StableDiffusion-ImageGen.git
+    git clone https://github.com/ganayasser/StableDiffusion-ImageGen.git
     cd StableDiffusion-ImageGen
     ```
 
